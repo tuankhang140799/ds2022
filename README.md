@@ -8,9 +8,13 @@ USTH ICT 2022 Distributed Systems
 * Push your commits regularly, with proper commit messages
 * Use pull request for collaborations!
 
-Group Info
+Group 11 - Present order 10 - Topic 5 - Distributed file system (GlusterFS clone)
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* Lê Tuấn Khang (BI8-081)
+* Trần Đức Mạnh (BI7-105)
+* Trần Xuân Đại (BI7-029)
+* Ngô Anh Tùng (BI8-162)
+* Vũ Tuấn Phương Nam (BI9-022)
+* Phạm Anh Hiếu (BI9-106)
 
